@@ -8,3 +8,7 @@ https://ithelp.ithome.com.tw/articles/10188294
 
 npm i --save express express-graphql graphql graphql-tools
 
+# define schema
+
+# implmenet the relation according to the schema
+
